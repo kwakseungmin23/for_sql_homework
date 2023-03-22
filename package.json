@@ -4,9 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "node app.js",
     "dev": "nodemon app.js",
-    "prettify": "prettier --write *.js **/*.js **/**/*.js"
+    "prettify": "prettier --write *.js **/*.js **/**/*.js",
+    "start": "node app.js"
   },
   "keywords": [],
   "author": "",
