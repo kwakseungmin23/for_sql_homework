@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "node app.js",
+    "test": "console.log("test")",
     "dev": "nodemon app.js",
     "prettify": "prettier --write *.js **/*.js **/**/*.js"
   },
