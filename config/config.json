@@ -2,7 +2,7 @@
   "development": {
     "username": "chriskwak",
     "password": "rhkrtmdals98",
-    "database": "sequelize_transaction",
+    "database": "express-database",
     "host": "express-database.cxxecvff3o3t.ap-northeast-1.rds.amazonaws.com",
     "dialect": "mysql"
   },
